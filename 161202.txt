@@ -1,0 +1,23 @@
+1.I made a project about regular expressions.
+
+2.I can use it to resolve all the email or other markup infomation on other people's website.
+
+3.Only need to modify the URL link in the txt file.
+
+4.But the company's website is not well test,because access to the Internet through proxy.
+
+5.If you use the company's computer to test the program,the test site can be our own website.
+
+6.when it comes to angularJs and PHP,I have a simple understand of them.
+
+7.Yes,I have no brothers and sisters,I am the only child.
+
+8.I'd be glad to lend a hand.
+
+9.At noon I went to the downstairs of the Chinese dumpling sharing activities.
+
+10.Just in the training room.
+
+11.NodeJS development in the use of the need to introduce a number of library files,but because the company network reasons,
+
+the package manager can not be normal use, so it can only use some of its basic functions.
